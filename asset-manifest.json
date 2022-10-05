@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Caesar-Cipher/static/css/main.cf63ee73.css",
+    "main.js": "/Caesar-Cipher/static/js/main.41d6ed4d.js",
+    "index.html": "/Caesar-Cipher/index.html",
+    "main.cf63ee73.css.map": "/Caesar-Cipher/static/css/main.cf63ee73.css.map",
+    "main.41d6ed4d.js.map": "/Caesar-Cipher/static/js/main.41d6ed4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf63ee73.css",
+    "static/js/main.41d6ed4d.js"
+  ]
+}
